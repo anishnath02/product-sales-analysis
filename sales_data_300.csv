@@ -1,0 +1,301 @@
+Order_ID,Customer_ID,Customer_Name,Gender,Age,Country,Sales_Zone,Date,Product_Category,Product_Name,Unit_Price,Quantity,Discount_Pct,Shipping_Cost,Total_Amount,Payment_Method,Order_Status
+ORD1001,CUST0139,Ethan Joshi,Male,22.0,India,South,2025-09-01,Apparel,Shoes,65.0,1.0,0.05,0.0,61.75,PayPal,Completed
+ORD1002,CUST0163,Sophia Garcia,Female,50.0,Germany,West,2025-01-12,Electronics,Speaker,45.0,4.0,0.25,0.0,135.0,Cash on Delivery,Completed
+ORD1003,CUST0249,Priya Verma,Female,53.0,Canada,West,2025-08-27,Home & Kitchen,Air Fryer,85.0,1.0,0.05,9.99,90.74,Credit Card,Completed
+ORD1004,CUST0159,Riya Gupta,Female,64.0,United States,North,2025-02-18,Beauty,Lipstick,15.0,1.0,0.1,0.0,13.5,PayPal,
+ORD1005,CUST0163,Daniel Davis,Male,37.0,India,North,2025-02-11,Home & Kitchen,Toaster,25.0,1.0,0.0,0.0,25.0,Credit Card,Completed
+ORD1006,CUST0192,Dev Reddy,Male,36.0,India,North,2025-06-15,Sports,Dumbbells,50.0,2.0,0.15,0.0,85.0,Debit Card,Completed
+ORD1007,CUST0171,Arjun Williams,Male,52.0,United Kingdom,North,2025-03-23,Electronics,TV,500.0,2.0,0.15,9.99,859.99,UPI,Completed
+ORD1008,CUST0110,Ava Miller,Female,60.0,Australia,East,2025-10-18,Electronics,TV,500.0,1.0,,4.99,479.99,Debit Card,Completed
+ORD1009,CUST0204,Amelia Sharma,Female,34.0,United Kingdom,North,2025-06-07,Beauty,Shampoo,12.0,1.0,0.25,9.99,18.99,Cash on Delivery,Completed
+ORD1010,CUST0113,Ava Sharma,Female,62.0,India,Central,2025-08-04,Home & Kitchen,Toaster,25.0,1.0,0.0,0.0,25.0,PayPal,Completed
+ORD1011,CUST0159,Vikram Patel,Male,60.0,United Kingdom,North,2025-06-07,Apparel,Shoes,65.0,1.0,0.0,4.99,69.99,Debit Card,Completed
+ORD1012,CUST0129,Pooja Verma,Other,51.0,United States,North,2025-05-14,Home & Kitchen,Air Fryer,85.0,2.0,0.15,4.99,149.49,Credit Card,Completed
+ORD1013,CUST0134,Neha Garcia,Female,26.0,Germany,East,2025-03-08,Beauty,Lipstick,15.0,2.0,0.15,9.99,35.49,Debit Card,Completed
+ORD1014,CUST0104,Ethan Sharma,Male,43.0,India,West,2025-12-02,Home & Kitchen,Blender,35.0,1.0,0.0,9.99,44.99,Debit Card,Completed
+ORD1015,CUST0182,Ethan Jones,Male,19.0,Germany,South,2025-01-07,Home & Kitchen,Microwave,110.0,1.0,0.0,0.0,110.0,Credit Card,Completed
+ORD1016,CUST0222,Vikram Williams,Male,26.0,United States,Central,2025-01-14,Apparel,Jeans,45.0,5.0,0.0,4.99,229.99,Debit Card,Returned
+ORD1017,CUST0177,Alexander Smith,Male,26.0,Australia,West,2025-03-14,Apparel,Shoes,65.0,2.0,0.0,0.0,130.0,Debit Card,Cancelled
+ORD1018,CUST0161,Amelia Verma,Female,57.0,India,West,2025-06-12,Apparel,Hoodie,40.0,2.0,0.15,4.99,72.99,UPI,Completed
+ORD1019,CUST0231,Liam Williams,Male,34.0,United Kingdom,South,2025-03-07,Beauty,Face Cream,22.0,1.0,0.05,0.0,20.9,PayPal,Completed
+ORD1020,CUST0188,Alexander Iyer,Male,18.0,Australia,South,2025-12-13,Beauty,Perfume,45.0,2.0,0.0,0.0,90.0,UPI,Completed
+ORD1021,CUST0141,Amelia Williams,Female,42.0,India,South,2025-05-10,Beauty,Sunscreen,16.0,1.0,0.05,0.0,15.2,Credit Card,Completed
+ORD1022,CUST0188,Vikram Reddy,Male,60.0,Australia,West,2025-07-25,Electronics,Smartwatch,120.0,2.0,0.0,4.99,244.99,Credit Card,Completed
+ORD1023,CUST0245,Dev Iyer,Male,57.0,United Kingdom,North,2025-10-03,Home & Kitchen,Toaster,25.0,5.0,0.0,0.0,125.0,PayPal,Completed
+ORD1024,CUST0139,Dev Williams,Male,59.0,India,North,2025-09-13,Beauty,Perfume,45.0,1.0,0.1,4.99,45.49,Debit Card,Completed
+ORD1025,CUST0171,Daniel Verma,Male,42.0,India,East,2025-09-23,Home & Kitchen,Coffee Maker,55.0,1.0,0.25,4.99,46.24,Credit Card,Returned
+ORD1026,CUST0138,Ava Verma,Female,56.0,United Kingdom,North,2025-01-25,Beauty,Face Cream,22.0,1.0,0.15,0.0,18.7,UPI,Completed
+ORD1027,CUST0203,James Jones,Male,52.0,India,East,2025-10-08,Beauty,Shampoo,12.0,1.0,0.0,9.99,21.99,UPI,Completed
+ORD1028,CUST0113,Priya Sharma,Female,20.0,United States,North,2025-09-10,Apparel,Jacket,75.0,1.0,0.2,0.0,60.0,PayPal,Completed
+ORD1029,CUST0131,Maya Williams,Female,67.0,India,North,2025-11-06,Apparel,Jeans,45.0,1.0,0.15,4.99,43.24,Credit Card,Completed
+ORD1030,CUST0224,Lucas Davis,Male,54.0,United Kingdom,North,2025-10-16,Electronics,Phone,650.0,3.0,0.15,4.99,1662.49,UPI,Completed
+ORD1031,CUST0196,Isabella Williams,Female,61.0,India,North,2025-06-13,Apparel,Shoes,65.0,2.0,0.05,0.0,123.5,PayPal,Returned
+ORD1032,CUST0122,Noah Patel,Male,61.0,Canada,West,2025-04-05,Home & Kitchen,Air Fryer,85.0,1.0,0.05,0.0,80.75,UPI,Completed
+ORD1033,CUST0162,Noah Davis,Male,47.0,Australia,South,2025-09-27,Beauty,Perfume,45.0,4.0,0.0,0.0,180.0,UPI,Completed
+ORD1034,CUST0242,Ava Sharma,Female,55.0,Australia,South,2025-11-17,Electronics,Phone,650.0,1.0,0.0,9.99,659.99,UPI,Completed
+ORD1035,CUST0244,Neha Williams,Other,51.0,Germany,North,2025-04-20,Electronics,Laptop,850.0,4.0,0.0,4.99,3404.99,Debit Card,Returned
+ORD1036,CUST0152,Riya Johnson,Female,29.0,India,East,2025-12-02,Home & Kitchen,Air Fryer,85.0,1.0,0.0,4.99,89.99,Credit Card,Completed
+ORD1037,CUST0203,Arjun Verma,Male,36.0,Germany,West,2025-11-06,Electronics,Speaker,45.0,4.0,0.05,4.99,175.99,PayPal,Completed
+ORD1038,CUST0203,Lucas Patel,Male,54.0,India,Central,2025-08-26,Electronics,TV,500.0,2.0,0.1,0.0,900.0,PayPal,Completed
+ORD1039,CUST0138,Emma Singh,Female,61.0,India,North,2025-01-25,Electronics,Speaker,45.0,3.0,0.05,4.99,133.24,UPI,Completed
+ORD1040,CUST0233,Rohan Smith,Male,66.0,India,North,2025-05-21,Electronics,Laptop,850.0,5.0,0.0,9.99,4259.99,Credit Card,Completed
+ORD1041,CUST0166,Daniel Sharma,Male,34.0,United States,North,2025-04-27,Electronics,Headphones,60.0,1.0,0.25,0.0,45.0,Credit Card,Completed
+ORD1042,CUST0234,Emma Das,Female,27.0,Germany,West,2025-01-25,Apparel,Shoes,65.0,5.0,0.2,0.0,260.0,UPI,Completed
+ORD1043,CUST0141,James Singh,Male,66.0,United Kingdom,North,2025-03-20,Apparel,T-Shirt,20.0,1.0,0.15,0.0,17.0,UPI,Completed
+ORD1044,CUST0114,Sophia Sharma,Female,64.0,United States,East,2025-03-09,Beauty,Perfume,45.0,1.0,0.25,4.99,38.74,Cash on Delivery,Returned
+ORD1045,CUST0210,Aarav Garcia,Male,29.0,India,West,2025-06-22,Apparel,Jeans,45.0,1.0,0.05,14.99,57.74,UPI,Completed
+ORD1046,CUST0132,Ava Das,Female,33.0,Australia,West,2025-01-12,Home & Kitchen,Blender,35.0,2.0,0.25,0.0,52.5,PayPal,Completed
+ORD1047,CUST0137,Daniel Kumar,Male,41.0,United States,South,2025-10-15,Electronics,Laptop,850.0,1.0,0.0,4.99,854.99,PayPal,Completed
+ORD1048,CUST0196,Amelia Iyer,Female,36.0,United States,East,2025-05-08,Electronics,Headphones,60.0,2.0,0.05,0.0,114.0,UPI,Completed
+ORD1049,CUST0132,Olivia Gupta,Female,25.0,India,East,2025-04-06,Home & Kitchen,Toaster,25.0,2.0,0.0,14.99,64.99,PayPal,Returned
+ORD1050,CUST0185,Liam Reddy,Male,48.0,Germany,West,2025-04-02,Electronics,Headphones,60.0,3.0,0.0,0.0,180.0,PayPal,Completed
+ORD1051,CUST0165,Charlotte Garcia,Other,38.0,United Kingdom,South,2025-05-21,Apparel,Shoes,65.0,3.0,0.0,4.99,199.99,Credit Card,Completed
+ORD1052,CUST0109,Riya Davis,Female,34.0,India,South,2025-01-31,Home & Kitchen,Microwave,110.0,1.0,0.1,4.99,103.99,Debit Card,Completed
+ORD1053,CUST0104,Ava Patel,Female,40.0,India,South,2025-11-30,Home & Kitchen,Microwave,110.0,1.0,0.15,4.99,98.49,UPI,Completed
+ORD1054,CUST0222,Sophia Miller,Female,54.0,United Kingdom,South,2025-01-20,Electronics,Phone,650.0,1.0,0.1,4.99,589.99,Credit Card,Completed
+ORD1055,CUST0173,Mia Johnson,Female,33.0,,North,2025-05-26,Apparel,Hoodie,40.0,1.0,0.0,0.0,40.0,Credit Card,Completed
+ORD1056,CUST0196,Ava Gupta,Female,23.0,India,East,2025-11-12,Home & Kitchen,Air Fryer,85.0,1.0,0.15,0.0,72.25,Debit Card,Completed
+ORD1057,CUST0217,Ethan Das,Male,25.0,Australia,East,2025-06-09,Electronics,Smartwatch,120.0,1.0,0.1,0.0,108.0,Credit Card,Cancelled
+ORD1058,CUST0137,Ethan Johnson,Male,42.0,India,South,2025-12-15,Home & Kitchen,Coffee Maker,55.0,1.0,0.05,0.0,52.25,Credit Card,Completed
+ORD1059,CUST0240,Kabir Johnson,Male,35.0,United States,South,2025-02-12,Home & Kitchen,Microwave,110.0,5.0,0.1,4.99,499.99,Debit Card,Completed
+ORD1060,CUST0146,,Male,42.0,Australia,West,2025-09-11,Sports,Dumbbells,50.0,,0.0,0.0,100.0,Cash on Delivery,Completed
+ORD1061,CUST0208,Kabir Smith,Male,29.0,United States,West,2025-05-10,Electronics,Phone,650.0,1.0,0.0,0.0,650.0,Debit Card,Completed
+ORD1062,CUST0114,Aarav Smith,Male,32.0,United Kingdom,North,2025-03-01,Beauty,Sunscreen,16.0,2.0,0.2,4.99,30.59,Credit Card,Completed
+ORD1063,CUST0235,Priya Gupta,Female,43.0,United States,Central,2025-05-31,Apparel,Jeans,45.0,1.0,0.0,14.99,59.99,Credit Card,Completed
+ORD1064,CUST0104,Aarav Jones,Male,58.0,India,South,2025-10-14,Apparel,Shoes,65.0,1.0,0.05,4.99,66.74,PayPal,Completed
+ORD1065,CUST0146,Arjun Williams,Male,62.0,Australia,East,2025-01-05,Electronics,Smartwatch,120.0,2.0,0.2,,192.0,Debit Card,Completed
+ORD1066,CUST0167,Amelia Reddy,Female,43.0,United States,West,2025-09-23,Home & Kitchen,Toaster,25.0,2.0,0.1,0.0,45.0,UPI,Completed
+ORD1067,CUST0175,Lucas Kumar,Male,64.0,Canada,East,2025-12-11,Electronics,Headphones,60.0,1.0,0.0,14.99,74.99,PayPal,Returned
+ORD1068,CUST0229,Mia Smith,Female,49.0,India,South,2025-05-10,Apparel,Jeans,45.0,5.0,0.0,0.0,225.0,UPI,Completed
+ORD1069,CUST0194,Kabir Reddy,Male,27.0,India,Central,2025-09-24,Electronics,Phone,650.0,4.0,0.0,0.0,2600.0,Credit Card,Completed
+ORD1070,CUST0214,Olivia Verma,Other,33.0,India,West,2025-06-27,Beauty,Sunscreen,16.0,2.0,0.1,4.99,33.79,PayPal,Completed
+ORD1071,CUST0135,Neha Kumar,Female,24.0,United Kingdom,West,2025-09-10,Beauty,Sunscreen,16.0,,0.05,4.99,35.39,Credit Card,Completed
+ORD1072,CUST0125,Leo Reddy,Male,34.0,United States,East,2025-02-25,Home & Kitchen,Microwave,110.0,2.0,0.0,4.99,224.99,Cash on Delivery,Completed
+ORD1073,CUST0142,Noah Singh,Male,40.0,Canada,Central,2025-03-24,Electronics,Smartwatch,120.0,1.0,0.25,0.0,90.0,PayPal,Completed
+ORD1074,CUST0126,Riya Miller,Female,,United States,,2025-04-09,Electronics,Smartwatch,120.0,1.0,0.05,0.0,114.0,Debit Card,Completed
+ORD1075,CUST0168,Sophia Singh,Female,38.0,Australia,South,2025-05-29,Home & Kitchen,Microwave,110.0,1.0,0.0,14.99,124.99,Credit Card,Completed
+ORD1076,CUST0247,Neha Jones,Female,39.0,India,East,2025-11-25,Apparel,T-Shirt,20.0,2.0,0.05,0.0,38.0,Credit Card,Completed
+ORD1077,CUST0110,Amelia Iyer,Female,24.0,Canada,East,2025-06-05,Electronics,Smartwatch,120.0,2.0,0.1,4.99,220.99,PayPal,
+ORD1078,CUST0173,Vikram Joshi,Male,31.0,Germany,North,2025-07-09,Home & Kitchen,Toaster,25.0,1.0,0.0,4.99,29.99,Credit Card,Completed
+ORD1079,CUST0203,James Williams,Male,32.0,,East,2025-09-20,Sports,Tennis Racket,60.0,5.0,0.0,4.99,304.99,PayPal,Completed
+ORD1080,CUST0137,Liam Singh,Male,24.0,Canada,Central,2025-03-21,Home & Kitchen,Blender,35.0,4.0,0.15,0.0,119.0,Credit Card,Completed
+ORD1081,CUST0233,Neha Johnson,Female,26.0,Germany,East,2025-09-09,Home & Kitchen,Toaster,25.0,2.0,0.05,0.0,47.5,PayPal,Completed
+ORD1082,CUST0122,Ananya Verma,Female,65.0,United Kingdom,West,2025-04-07,Sports,Dumbbells,50.0,2.0,0.05,4.99,99.99,UPI,Completed
+ORD1083,CUST0146,Kabir Jones,Male,25.0,India,Central,2025-09-17,Electronics,Laptop,850.0,3.0,0.05,9.99,2432.49,UPI,Completed
+ORD1084,CUST0189,Ethan Davis,Male,67.0,India,West,2025-09-17,Home & Kitchen,Microwave,110.0,1.0,0.0,9.99,119.99,UPI,Completed
+ORD1085,CUST0145,Mateo Jones,Male,40.0,Australia,South,2025-04-13,Sports,Water Bottle,15.0,3.0,0.0,0.0,45.0,Credit Card,Completed
+ORD1086,CUST0206,Dev Williams,Male,46.0,United Kingdom,North,2025-02-09,Electronics,Phone,650.0,1.0,0.05,0.0,617.5,Credit Card,Completed
+ORD1087,CUST0239,Sophia Das,Female,35.0,Germany,West,2025-09-30,Home & Kitchen,Toaster,25.0,3.0,0.0,9.99,84.99,PayPal,Completed
+ORD1088,CUST0240,Charlotte Gupta,Female,48.0,United States,East,2025-04-11,Home & Kitchen,Coffee Maker,55.0,1.0,0.0,4.99,59.99,Debit Card,Completed
+ORD1089,CUST0203,Pooja Singh,Female,47.0,India,East,2025-12-25,Home & Kitchen,Toaster,25.0,3.0,0.15,9.99,73.74,Debit Card,Completed
+ORD1090,CUST0210,Kabir Davis,Male,56.0,India,West,2025-11-04,Home & Kitchen,Toaster,25.0,4.0,0.25,0.0,75.0,Credit Card,Completed
+ORD1091,CUST0203,Mateo Singh,Male,52.0,United Kingdom,North,2025-08-09,Sports,Yoga Mat,20.0,1.0,0.15,4.99,21.99,Credit Card,Completed
+ORD1092,CUST0159,Emma Brown,Female,35.0,United States,Central,2025-11-04,Beauty,Face Cream,22.0,2.0,0.15,4.99,42.39,Credit Card,Completed
+ORD1093,CUST0199,Mia Iyer,Female,59.0,India,East,2025-05-04,Electronics,Laptop,850.0,5.0,0.0,4.99,4254.99,UPI,Completed
+ORD1094,CUST0167,Riya Garcia,Female,56.0,United States,,2025-08-19,Beauty,Face Cream,22.0,2.0,0.25,4.99,37.99,Credit Card,Returned
+ORD1095,CUST0232,Ava Miller,Female,34.0,India,Central,2025-06-27,Electronics,Phone,650.0,3.0,0.0,0.0,1950.0,PayPal,Completed
+ORD1096,CUST0219,Olivia Patel,Female,31.0,United States,West,2025-03-04,Apparel,Jacket,75.0,2.0,0.25,4.99,117.49,Credit Card,Completed
+ORD1097,CUST0136,Ananya Williams,Female,48.0,India,Central,2025-04-26,Apparel,Jacket,75.0,1.0,0.25,0.0,56.25,PayPal,Completed
+ORD1098,CUST0171,Alexander Garcia,Male,41.0,Germany,West,2025-07-10,Apparel,T-Shirt,20.0,1.0,0.1,4.99,22.99,Debit Card,Completed
+ORD1099,CUST0226,Ethan Sharma,Male,52.0,India,East,2025-03-03,Apparel,Jacket,75.0,1.0,0.25,14.99,71.24,UPI,Completed
+ORD1100,CUST0205,Alexander Reddy,Male,61.0,United States,Central,2025-09-13,Sports,Football,25.0,3.0,0.1,0.0,67.5,UPI,Completed
+ORD1101,CUST0191,Vikram Jones,Male,62.0,India,West,2025-01-07,Home & Kitchen,Coffee Maker,55.0,1.0,0.0,9.99,64.99,Debit Card,Completed
+ORD1102,CUST0130,Neha Kumar,Female,51.0,India,East,2025-06-04,Home & Kitchen,Air Fryer,85.0,2.0,0.05,0.0,161.5,Cash on Delivery,Completed
+ORD1103,CUST0221,Noah Johnson,Male,20.0,United States,South,2025-04-02,Electronics,Speaker,45.0,2.0,0.1,4.99,85.99,Cash on Delivery,Completed
+ORD1104,CUST0236,Isabella Singh,Female,54.0,United States,West,2025-01-14,Sports,Dumbbells,50.0,2.0,0.0,14.99,114.99,UPI,Cancelled
+ORD1105,CUST0150,Isabella Jones,Female,60.0,United Kingdom,South,2025-08-17,Sports,Dumbbells,50.0,3.0,0.1,0.0,135.0,UPI,Completed
+ORD1106,CUST0128,Leo Davis,Male,57.0,India,South,2025-03-27,Beauty,Face Cream,22.0,5.0,0.25,0.0,82.5,Credit Card,Returned
+ORD1107,CUST0139,Mateo Jones,Male,43.0,United Kingdom,South,2025-05-13,Electronics,Phone,650.0,1.0,0.0,4.99,654.99,PayPal,Completed
+ORD1108,CUST0140,Maya Smith,Female,40.0,Canada,East,2025-07-02,Electronics,Laptop,850.0,3.0,0.15,0.0,2167.5,Credit Card,Completed
+ORD1109,CUST0110,Ethan Kumar,Male,61.0,Germany,North,2025-03-03,Electronics,Phone,650.0,3.0,0.2,4.99,1564.99,Credit Card,Completed
+ORD1110,CUST0100,Rohan Garcia,Male,56.0,India,West,2025-08-07,Electronics,Headphones,60.0,2.0,0.2,9.99,105.99,Cash on Delivery,Completed
+ORD1111,CUST0145,Ethan Miller,Male,32.0,United States,South,2025-09-03,Apparel,T-Shirt,20.0,4.0,0.25,4.99,64.99,Debit Card,Returned
+ORD1112,CUST0200,Lucas Sharma,Male,66.0,India,North,2025-08-18,Sports,Tennis Racket,60.0,1.0,0.05,0.0,57.0,UPI,Cancelled
+ORD1113,CUST0248,Sophia Kumar,Female,21.0,India,East,2025-03-20,Apparel,Jacket,75.0,1.0,0.25,4.99,61.24,UPI,Returned
+ORD1114,CUST0189,Amelia Reddy,Female,46.0,Australia,South,2025-05-29,Electronics,Phone,650.0,3.0,0.15,4.99,1662.49,UPI,Completed
+ORD1115,CUST0209,Neha Sharma,Female,,India,West,2025-05-18,Electronics,Smartwatch,120.0,1.0,0.0,0.0,120.0,Cash on Delivery,Completed
+ORD1116,CUST0156,Isabella Brown,Female,42.0,United States,South,2025-11-10,Electronics,TV,500.0,3.0,0.05,4.99,1429.99,Credit Card,Completed
+ORD1117,CUST0100,Ava Singh,Female,30.0,United Kingdom,East,2025-03-06,Electronics,TV,500.0,4.0,0.1,4.99,1804.99,Credit Card,Cancelled
+ORD1118,CUST0162,Ethan Kumar,Male,35.0,United Kingdom,North,2025-01-13,Electronics,Laptop,850.0,1.0,0.0,4.99,854.99,Debit Card,Completed
+ORD1119,CUST0154,Riya Joshi,Female,50.0,United States,North,2025-08-01,Electronics,TV,500.0,4.0,0.1,0.0,1800.0,Credit Card,Completed
+ORD1120,CUST0214,Ananya Verma,Female,33.0,India,,2025-08-30,Beauty,Lipstick,15.0,1.0,0.1,4.99,18.49,Credit Card,Completed
+ORD1121,CUST0242,Isabella Das,Female,62.0,India,Central,2025-08-01,Sports,Football,25.0,2.0,0.0,0.0,50.0,Debit Card,Completed
+ORD1122,CUST0248,Amelia Williams,Female,59.0,,South,2025-06-30,Apparel,T-Shirt,20.0,2.0,0.1,0.0,36.0,UPI,Cancelled
+ORD1123,CUST0152,Noah Smith,Male,61.0,India,West,2025-12-04,Apparel,Hoodie,40.0,4.0,0.15,9.99,145.99,PayPal,Completed
+ORD1124,CUST0236,Liam Gupta,Male,19.0,United States,West,2025-06-22,Beauty,Sunscreen,16.0,1.0,0.05,4.99,20.19,Debit Card,Completed
+ORD1125,CUST0156,Vikram Miller,Male,52.0,India,West,2025-06-09,Electronics,Smartwatch,120.0,2.0,0.0,0.0,240.0,PayPal,Completed
+ORD1126,CUST0216,Aarav Iyer,Male,59.0,India,North,2025-06-13,Electronics,TV,500.0,2.0,0.0,0.0,1000.0,Credit Card,Completed
+ORD1127,CUST0134,Pooja Sharma,Female,51.0,United States,West,2025-07-07,Beauty,Face Cream,22.0,2.0,0.05,0.0,41.8,Credit Card,Completed
+ORD1128,CUST0162,Ananya Smith,Female,47.0,India,Central,2025-07-10,Electronics,Headphones,60.0,2.0,0.2,0.0,96.0,UPI,Completed
+ORD1129,CUST0124,Lucas Das,Male,30.0,United States,South,2025-11-04,Home & Kitchen,Blender,35.0,1.0,0.0,0.0,35.0,PayPal,Completed
+ORD1130,CUST0189,Amelia Davis,Female,30.0,United Kingdom,East,2025-09-13,Home & Kitchen,Microwave,110.0,1.0,0.1,0.0,99.0,UPI,Returned
+ORD1131,CUST0174,Arjun Brown,Male,35.0,Germany,East,2025-07-02,Apparel,Hoodie,40.0,1.0,0.0,4.99,44.99,Credit Card,Completed
+ORD1132,CUST0137,Daniel Garcia,Male,49.0,India,Central,2025-04-27,Apparel,Jacket,75.0,3.0,0.0,4.99,229.99,UPI,Completed
+ORD1133,CUST0229,Mateo Johnson,Male,49.0,India,Central,2025-10-09,Beauty,Face Cream,22.0,1.0,0.15,4.99,23.69,PayPal,Returned
+ORD1134,CUST0234,Mateo Garcia,Male,52.0,India,West,2025-07-15,Electronics,Phone,650.0,1.0,0.1,4.99,589.99,PayPal,Completed
+ORD1135,CUST0190,Ava Gupta,Female,56.0,United Kingdom,North,2025-02-03,Electronics,Speaker,45.0,4.0,0.0,,180.0,PayPal,Completed
+ORD1136,CUST0116,Daniel Williams,Male,63.0,United Kingdom,South,2025-02-21,Home & Kitchen,Microwave,110.0,1.0,0.05,14.99,119.49,UPI,Completed
+ORD1137,CUST0227,Neha Johnson,Female,46.0,India,North,2025-04-22,Apparel,Hoodie,40.0,5.0,0.0,9.99,209.99,PayPal,Completed
+ORD1138,CUST0207,Charlotte Reddy,Female,66.0,Australia,South,2025-09-09,Electronics,Speaker,45.0,2.0,0.05,9.99,95.49,PayPal,Completed
+ORD1139,CUST0124,Kabir Sharma,Male,46.0,India,South,2025-03-23,Sports,Football,25.0,3.0,0.1,9.99,77.49,,Cancelled
+ORD1140,CUST0187,Isabella Kumar,Other,61.0,United States,South,2025-08-20,Apparel,Hoodie,40.0,1.0,0.0,9.99,49.99,UPI,Completed
+ORD1141,CUST0128,Riya Verma,Other,33.0,United Kingdom,North,2025-08-15,Beauty,Perfume,45.0,1.0,0.0,4.99,49.99,Debit Card,Completed
+ORD1142,CUST0162,Ethan Kumar,Male,61.0,Canada,East,2025-08-21,Beauty,Lipstick,15.0,3.0,0.05,0.0,42.75,UPI,Completed
+ORD1143,CUST0249,Maya Smith,Female,64.0,United Kingdom,South,2025-08-09,Home & Kitchen,Air Fryer,85.0,3.0,0.2,4.99,208.99,Debit Card,Completed
+ORD1144,CUST0213,Ethan Brown,Male,27.0,Germany,West,2025-02-11,Apparel,Jacket,,3.0,0.25,4.99,173.74,Credit Card,Completed
+ORD1145,CUST0148,Rohan Williams,Male,47.0,India,North,2025-01-21,Sports,Water Bottle,15.0,1.0,0.0,4.99,19.99,PayPal,Completed
+ORD1146,CUST0180,Vikram Patel,Male,42.0,Germany,South,2025-02-11,Electronics,Headphones,60.0,3.0,0.15,4.99,157.99,Cash on Delivery,Completed
+ORD1147,CUST0183,Ava Gupta,Female,56.0,India,East,2025-04-23,Home & Kitchen,Blender,35.0,3.0,0.05,0.0,99.75,Cash on Delivery,Completed
+ORD1148,CUST0204,Charlotte Kumar,Female,37.0,Canada,East,2025-04-15,Electronics,Speaker,45.0,2.0,0.05,0.0,85.5,Debit Card,Returned
+ORD1149,CUST0247,James Sharma,Male,22.0,United States,West,2025-07-11,Apparel,T-Shirt,20.0,3.0,0.15,9.99,60.99,PayPal,Completed
+ORD1150,CUST0217,Alexander Sharma,Male,18.0,Germany,South,2025-01-17,Apparel,Hoodie,40.0,3.0,0.2,4.99,100.99,Credit Card,Completed
+ORD1151,CUST0185,Olivia Joshi,Female,47.0,United States,East,2025-04-30,Sports,Water Bottle,15.0,2.0,0.25,4.99,27.49,Cash on Delivery,Completed
+ORD1152,CUST0162,,Male,66.0,United Kingdom,West,2025-05-09,Sports,Water Bottle,15.0,1.0,0.1,0.0,13.5,Cash on Delivery,Completed
+ORD1153,CUST0203,James Reddy,Male,20.0,United States,West,2025-05-10,Electronics,Phone,650.0,2.0,0.05,0.0,1235.0,PayPal,Completed
+ORD1154,CUST0148,Riya Sharma,Female,62.0,Germany,East,2025-03-01,Electronics,Phone,650.0,1.0,0.15,9.99,562.49,UPI,Completed
+ORD1155,CUST0170,Rohan Miller,Other,31.0,India,South,2025-02-17,Home & Kitchen,Microwave,110.0,,0.0,4.99,114.99,UPI,Completed
+ORD1156,CUST0100,Liam Sharma,Male,47.0,India,North,2025-01-29,Apparel,Jacket,75.0,1.0,0.1,9.99,77.49,PayPal,Completed
+ORD1157,CUST0240,Ananya Verma,Female,67.0,India,South,2025-04-07,Electronics,Headphones,60.0,1.0,0.05,4.99,61.99,Credit Card,Returned
+ORD1158,CUST0222,,Female,21.0,India,East,2025-01-10,Home & Kitchen,Microwave,110.0,1.0,0.1,4.99,103.99,Debit Card,Returned
+ORD1159,CUST0161,Daniel Reddy,Male,35.0,Canada,West,2025-08-30,Apparel,T-Shirt,20.0,1.0,0.0,0.0,20.0,PayPal,Returned
+ORD1160,CUST0131,Ananya Williams,Female,54.0,India,North,2025-11-10,Sports,Yoga Mat,20.0,3.0,,4.99,64.99,PayPal,Completed
+ORD1161,CUST0128,Alexander Smith,Male,42.0,Australia,South,2025-08-20,Electronics,Laptop,850.0,4.0,0.2,4.99,2724.99,,Completed
+ORD1162,CUST0148,Ananya Williams,Female,65.0,India,South,2025-10-04,Apparel,T-Shirt,20.0,1.0,0.0,4.99,24.99,Cash on Delivery,Completed
+ORD1163,CUST0129,Ananya Williams,Female,18.0,India,Central,2025-10-11,Apparel,Jacket,75.0,4.0,0.05,4.99,289.99,Credit Card,Completed
+ORD1164,CUST0243,Ava Davis,Female,63.0,Germany,East,2025-07-22,Beauty,Face Cream,22.0,2.0,0.0,9.99,53.99,Debit Card,Completed
+ORD1165,CUST0118,Liam Reddy,Male,32.0,United Kingdom,North,2025-09-04,Apparel,Shoes,65.0,1.0,0.0,0.0,65.0,PayPal,Completed
+ORD1166,CUST0117,Ananya Iyer,Female,26.0,United States,East,2025-10-17,Home & Kitchen,Toaster,25.0,1.0,0.0,9.99,34.99,PayPal,Completed
+ORD1167,CUST0100,Kabir Iyer,Male,32.0,United States,West,2025-09-21,Electronics,Laptop,850.0,2.0,0.0,0.0,1700.0,PayPal,Completed
+ORD1168,CUST0177,Aarav Kumar,Male,66.0,United Kingdom,South,2025-08-02,Beauty,Shampoo,12.0,3.0,0.15,4.99,35.59,Credit Card,Completed
+ORD1169,CUST0214,Ethan Johnson,Male,41.0,India,North,2025-07-19,Apparel,Jacket,75.0,2.0,0.0,0.0,150.0,Credit Card,Completed
+ORD1170,CUST0212,Maya Sharma,Female,21.0,Australia,South,2025-03-20,Electronics,Laptop,850.0,1.0,0.25,0.0,637.5,PayPal,Completed
+ORD1171,CUST0213,Emma Garcia,Female,29.0,Australia,East,2025-12-09,Home & Kitchen,Toaster,25.0,1.0,0.1,4.99,27.49,PayPal,Completed
+ORD1172,CUST0162,Rohan Garcia,Male,54.0,United Kingdom,North,2025-12-10,Electronics,Laptop,850.0,1.0,0.05,0.0,807.5,Credit Card,Completed
+ORD1173,CUST0231,Mia Patel,Female,54.0,India,Central,2025-06-22,Electronics,TV,500.0,1.0,0.1,4.99,454.99,UPI,Completed
+ORD1174,CUST0228,,Male,60.0,United Kingdom,East,2025-03-10,Beauty,Sunscreen,16.0,1.0,0.05,9.99,25.19,,Completed
+ORD1175,CUST0107,Charlotte Gupta,Female,23.0,India,East,2025-03-28,Apparel,Shoes,65.0,1.0,0.15,0.0,55.25,PayPal,Completed
+ORD1176,CUST0154,Daniel Sharma,,56.0,India,West,2025-04-11,Home & Kitchen,Air Fryer,85.0,3.0,0.0,9.99,264.99,UPI,Completed
+ORD1177,CUST0202,Isabella Singh,Female,63.0,India,,2025-01-08,Electronics,Smartwatch,120.0,4.0,0.05,4.99,460.99,Credit Card,Completed
+ORD1178,CUST0230,James Reddy,Male,41.0,United States,South,2025-11-29,Beauty,Face Cream,22.0,1.0,0.2,4.99,22.59,Credit Card,Completed
+ORD1179,CUST0131,Pooja Joshi,Female,28.0,Canada,East,2025-07-19,Electronics,Phone,650.0,4.0,0.2,0.0,2080.0,UPI,Returned
+ORD1180,CUST0109,Lucas Joshi,Male,30.0,Germany,South,2025-03-28,Apparel,T-Shirt,20.0,1.0,0.2,0.0,16.0,PayPal,Completed
+ORD1181,CUST0209,James Iyer,Male,51.0,Germany,North,2025-02-12,Sports,Yoga Mat,20.0,2.0,0.05,0.0,38.0,PayPal,Completed
+ORD1182,CUST0223,Rohan Das,Male,,United States,Central,2025-04-19,Beauty,Sunscreen,16.0,1.0,0.15,0.0,13.6,UPI,Completed
+ORD1183,CUST0186,Sophia Jones,Female,24.0,India,North,2025-06-01,Apparel,Shoes,65.0,2.0,0.05,0.0,123.5,UPI,Returned
+ORD1184,CUST0154,Isabella Patel,Female,21.0,United States,North,2025-01-17,Apparel,Shoes,65.0,5.0,0.05,4.99,313.74,Cash on Delivery,Completed
+ORD1185,CUST0131,Alexander Gupta,Male,25.0,Australia,West,2025-05-13,Beauty,Sunscreen,16.0,2.0,0.0,9.99,41.99,PayPal,Completed
+ORD1186,CUST0234,Olivia Gupta,Female,37.0,India,East,2025-05-28,Apparel,Jacket,75.0,1.0,0.1,9.99,77.49,Debit Card,Completed
+ORD1187,CUST0192,Maya Joshi,Female,46.0,Canada,Central,2025-10-04,Beauty,Face Cream,22.0,2.0,0.0,4.99,48.99,Debit Card,Returned
+ORD1188,CUST0107,Charlotte Patel,,62.0,United States,Central,2025-08-20,Beauty,Lipstick,15.0,1.0,0.0,0.0,15.0,Credit Card,Completed
+ORD1189,CUST0164,Priya Brown,Female,63.0,United States,South,2025-11-10,Electronics,Laptop,850.0,4.0,0.15,0.0,2890.0,PayPal,Completed
+ORD1190,CUST0156,Aarav Joshi,Male,27.0,Germany,East,2025-08-16,Electronics,Laptop,850.0,2.0,0.0,0.0,1700.0,Credit Card,Completed
+ORD1191,CUST0166,Daniel Davis,Male,60.0,United States,South,2025-05-19,Home & Kitchen,Air Fryer,85.0,1.0,0.0,0.0,85.0,Cash on Delivery,Completed
+ORD1192,CUST0171,Sophia Reddy,Female,51.0,Canada,West,2025-07-30,Electronics,Laptop,850.0,2.0,0.0,4.99,1704.99,PayPal,Completed
+ORD1193,CUST0153,Ananya Johnson,Female,43.0,Canada,East,2025-01-28,Electronics,Headphones,60.0,2.0,0.2,4.99,100.99,PayPal,Completed
+ORD1194,CUST0166,Ava Reddy,Female,58.0,United States,North,2025-02-20,Sports,Dumbbells,50.0,1.0,0.05,0.0,47.5,Debit Card,Completed
+ORD1195,CUST0150,Mateo Reddy,Male,66.0,India,North,2025-09-18,Home & Kitchen,Microwave,110.0,2.0,0.05,0.0,209.0,Credit Card,Completed
+ORD1196,CUST0196,Daniel Williams,Male,20.0,United States,East,2025-09-18,Beauty,Lipstick,15.0,1.0,0.15,9.99,22.74,Credit Card,Completed
+ORD1197,CUST0191,Olivia Brown,Female,23.0,Canada,Central,2025-12-16,Home & Kitchen,Coffee Maker,55.0,2.0,0.15,9.99,103.49,Debit Card,Cancelled
+ORD1198,CUST0107,Ananya Patel,Female,22.0,India,West,2025-12-18,Home & Kitchen,Coffee Maker,55.0,3.0,0.0,0.0,165.0,Credit Card,Completed
+ORD1199,CUST0134,Riya Das,Female,22.0,United Kingdom,South,2025-01-08,Electronics,TV,500.0,3.0,0.1,9.99,1359.99,PayPal,Completed
+ORD1200,CUST0195,Charlotte Verma,Female,64.0,United Kingdom,East,2025-11-16,Apparel,Jeans,45.0,2.0,0.15,14.99,91.49,UPI,Completed
+ORD1201,CUST0187,Charlotte Joshi,Female,,Germany,West,2025-05-18,Electronics,Speaker,45.0,2.0,0.1,0.0,81.0,UPI,Completed
+ORD1202,CUST0177,Kabir Verma,Male,66.0,India,South,2025-02-07,Apparel,Shoes,65.0,1.0,0.0,0.0,65.0,PayPal,Completed
+ORD1203,CUST0131,Vikram Das,Male,26.0,United Kingdom,South,2025-04-21,Beauty,Sunscreen,16.0,3.0,0.2,4.99,43.39,Credit Card,Completed
+ORD1204,CUST0219,Isabella Verma,Female,52.0,Canada,West,2025-08-08,Apparel,Shoes,65.0,1.0,0.05,9.99,71.74,UPI,Completed
+ORD1205,CUST0145,Sneha Johnson,Female,37.0,India,Central,2025-12-03,Apparel,Jacket,75.0,2.0,0.0,9.99,159.99,UPI,Completed
+ORD1206,CUST0243,Arjun Johnson,Male,66.0,India,West,2025-08-11,Apparel,Jacket,75.0,1.0,0.05,0.0,71.25,Credit Card,Completed
+ORD1207,CUST0241,Arjun Smith,Male,59.0,Australia,East,2025-05-16,Electronics,Laptop,850.0,1.0,0.0,0.0,850.0,UPI,Completed
+ORD1208,CUST0154,Sophia Gupta,Female,52.0,India,North,2025-09-13,Apparel,Hoodie,40.0,2.0,0.0,4.99,84.99,Credit Card,Completed
+ORD1209,CUST0106,Ethan Williams,Male,67.0,Canada,Central,2025-12-26,Electronics,Phone,650.0,1.0,0.15,4.99,557.49,UPI,Returned
+ORD1210,CUST0173,Rohan Davis,Male,35.0,United States,North,2025-11-25,Electronics,Headphones,60.0,3.0,0.0,0.0,180.0,Cash on Delivery,Completed
+ORD1211,CUST0106,Riya Brown,Female,34.0,India,North,2025-02-18,Electronics,Smartwatch,120.0,1.0,0.05,9.99,123.99,Credit Card,Cancelled
+ORD1212,CUST0184,,Female,41.0,Canada,Central,2025-10-19,Apparel,Jacket,,1.0,0.05,4.99,76.24,UPI,Completed
+ORD1213,CUST0246,Neha Singh,Female,20.0,United States,North,2025-11-20,Beauty,Face Cream,22.0,2.0,0.0,9.99,53.99,PayPal,Cancelled
+ORD1214,CUST0211,Mateo Iyer,Male,49.0,United States,West,2025-03-19,Electronics,Laptop,850.0,1.0,0.25,9.99,647.49,Cash on Delivery,Completed
+ORD1215,CUST0224,Olivia Reddy,Female,52.0,United States,Central,2025-04-15,Apparel,Shoes,65.0,1.0,0.0,4.99,69.99,Debit Card,Completed
+ORD1216,CUST0246,Dev Kumar,Male,55.0,United States,North,2025-06-18,Home & Kitchen,Air Fryer,85.0,2.0,0.0,4.99,174.99,UPI,Completed
+ORD1217,CUST0135,Leo Miller,Male,30.0,India,West,2025-08-05,Electronics,Smartwatch,120.0,1.0,0.0,,124.99,Credit Card,Completed
+ORD1218,CUST0128,Ava Joshi,Female,64.0,United States,South,2025-04-29,Sports,Tennis Racket,60.0,3.0,0.0,0.0,180.0,Debit Card,Completed
+ORD1219,CUST0181,Neha Joshi,Female,42.0,Australia,East,2025-07-09,Apparel,Jacket,75.0,1.0,0.0,,79.99,Credit Card,Completed
+ORD1220,CUST0101,Sneha Das,Female,26.0,India,West,2025-09-12,Apparel,Shoes,65.0,1.0,0.1,0.0,58.5,Cash on Delivery,Completed
+ORD1221,CUST0228,Pooja Verma,Female,21.0,United Kingdom,,2025-09-23,Home & Kitchen,Microwave,110.0,3.0,0.25,4.99,252.49,UPI,Completed
+ORD1222,CUST0146,Riya Reddy,Female,31.0,India,Central,2025-05-29,Electronics,TV,500.0,1.0,0.0,0.0,500.0,UPI,Completed
+ORD1223,CUST0247,Mateo Johnson,Male,54.0,Germany,West,2025-06-13,Home & Kitchen,Microwave,110.0,1.0,0.1,0.0,99.0,Cash on Delivery,Completed
+ORD1224,CUST0110,Aarav Garcia,Male,51.0,India,South,2025-05-20,Apparel,Jacket,75.0,1.0,0.1,0.0,67.5,Credit Card,Completed
+ORD1225,CUST0229,Aarav Smith,Male,28.0,Australia,South,2025-12-13,Sports,Dumbbells,50.0,1.0,0.15,0.0,42.5,Debit Card,Completed
+ORD1226,CUST0218,Ethan Joshi,Male,58.0,United States,West,2025-09-15,Electronics,TV,500.0,3.0,0.05,4.99,1429.99,Credit Card,Completed
+ORD1227,CUST0239,Vikram Iyer,Other,20.0,India,Central,2025-09-26,Apparel,Jacket,75.0,1.0,0.0,4.99,79.99,Credit Card,Completed
+ORD1228,CUST0119,Mateo Iyer,Male,45.0,India,South,2025-06-30,Home & Kitchen,Microwave,110.0,3.0,0.0,4.99,334.99,Credit Card,Completed
+ORD1229,CUST0104,Sneha Patel,Female,46.0,India,East,2025-06-09,Electronics,Phone,650.0,4.0,0.1,0.0,2340.0,Debit Card,Completed
+ORD1230,CUST0136,Riya Iyer,Female,26.0,United States,South,2025-12-17,Apparel,T-Shirt,20.0,1.0,0.15,0.0,17.0,Credit Card,Completed
+ORD1231,CUST0236,Charlotte Jones,Female,20.0,India,,2025-10-15,Home & Kitchen,Coffee Maker,55.0,4.0,0.0,0.0,220.0,Credit Card,Completed
+ORD1232,CUST0152,Sophia Joshi,Female,42.0,Canada,West,2025-10-15,Beauty,Sunscreen,16.0,1.0,0.05,0.0,15.2,Credit Card,Completed
+ORD1233,CUST0198,Mia Iyer,Female,51.0,United States,North,2025-08-14,Apparel,T-Shirt,20.0,5.0,0.2,9.99,89.99,Credit Card,Completed
+ORD1234,CUST0185,Charlotte Joshi,Female,29.0,India,East,2025-01-11,Beauty,Shampoo,12.0,1.0,0.15,0.0,10.2,Cash on Delivery,Completed
+ORD1235,CUST0207,Daniel Kumar,Male,59.0,United Kingdom,South,2025-01-10,Sports,Water Bottle,15.0,2.0,0.25,0.0,22.5,UPI,Completed
+ORD1236,CUST0123,Olivia Brown,Female,26.0,United Kingdom,East,2025-09-28,Beauty,Face Cream,22.0,2.0,0.15,0.0,37.4,Cash on Delivery,Returned
+ORD1237,CUST0180,Liam Joshi,Male,32.0,India,West,2025-09-30,Electronics,Laptop,850.0,1.0,0.05,0.0,807.5,Debit Card,Completed
+ORD1238,CUST0219,Kabir Williams,Male,57.0,India,West,2025-07-02,Home & Kitchen,Blender,35.0,2.0,0.1,4.99,67.99,Credit Card,Completed
+ORD1239,CUST0158,Amelia Davis,Female,42.0,India,South,2025-06-02,Apparel,Jeans,45.0,2.0,0.1,4.99,85.99,UPI,Completed
+ORD1240,CUST0227,Lucas Reddy,Male,22.0,Germany,West,2025-11-11,Sports,Football,25.0,1.0,0.0,0.0,25.0,Debit Card,Completed
+ORD1241,CUST0213,Mia Singh,Female,28.0,United Kingdom,North,2025-11-30,Apparel,Shoes,65.0,1.0,0.05,0.0,61.75,Credit Card,Completed
+ORD1242,CUST0214,Neha Reddy,Female,51.0,United States,Central,2025-05-04,Electronics,Headphones,60.0,2.0,0.1,0.0,108.0,Credit Card,Completed
+ORD1243,CUST0113,Riya Johnson,Female,41.0,Canada,East,2025-04-24,Home & Kitchen,Coffee Maker,55.0,2.0,0.0,0.0,110.0,Credit Card,Completed
+ORD1244,CUST0108,Mateo Smith,Male,32.0,Germany,East,2025-10-05,Apparel,Shoes,65.0,5.0,0.15,0.0,276.25,Credit Card,Returned
+ORD1245,CUST0139,Kabir Kumar,Male,55.0,United States,North,2025-08-01,Sports,Water Bottle,15.0,3.0,0.1,14.99,55.49,Debit Card,Completed
+ORD1246,CUST0124,Olivia Joshi,Female,25.0,Canada,Central,2025-06-21,Sports,Yoga Mat,20.0,4.0,0.25,4.99,64.99,PayPal,Returned
+ORD1247,CUST0202,Noah Joshi,Male,22.0,India,South,2025-10-15,Home & Kitchen,Blender,35.0,2.0,0.0,4.99,74.99,Credit Card,Completed
+ORD1248,CUST0121,Mia Patel,Other,65.0,India,North,2025-06-23,Electronics,Laptop,850.0,1.0,0.0,4.99,854.99,Credit Card,Completed
+ORD1249,CUST0103,Vikram Garcia,Other,43.0,India,West,2025-04-23,Home & Kitchen,Microwave,110.0,1.0,0.1,4.99,103.99,UPI,
+ORD1250,CUST0128,Sneha Reddy,Female,35.0,India,,2025-05-02,Electronics,Speaker,45.0,3.0,0.0,4.99,139.99,Credit Card,Completed
+ORD1251,CUST0208,Daniel Davis,Male,23.0,United States,West,2025-02-01,Electronics,Speaker,45.0,2.0,0.1,4.99,85.99,,Completed
+ORD1252,CUST0197,Kabir Williams,Male,54.0,Australia,South,2025-08-10,Beauty,Shampoo,12.0,1.0,0.15,4.99,15.19,UPI,Completed
+ORD1253,CUST0136,Isabella Patel,Female,65.0,India,Central,2025-04-29,Electronics,Laptop,850.0,1.0,0.0,0.0,850.0,Credit Card,Completed
+ORD1254,CUST0174,Leo Kumar,Male,30.0,India,West,2025-02-08,Apparel,T-Shirt,20.0,4.0,0.05,4.99,80.99,Credit Card,Cancelled
+ORD1255,CUST0169,Alexander Williams,Male,45.0,United States,East,2025-09-25,Sports,Football,25.0,2.0,0.05,4.99,52.49,Debit Card,Completed
+ORD1256,CUST0245,Neha Sharma,Female,22.0,Australia,West,2025-08-21,Apparel,Jacket,75.0,1.0,0.05,9.99,81.24,Debit Card,Completed
+ORD1257,CUST0227,Ananya Brown,Female,30.0,India,Central,2025-01-18,Electronics,TV,500.0,2.0,0.2,4.99,804.99,PayPal,Completed
+ORD1258,CUST0184,Isabella Verma,Female,34.0,United States,West,2025-05-29,Sports,Water Bottle,15.0,1.0,0.15,4.99,17.74,UPI,Completed
+ORD1259,CUST0141,Priya Das,Female,67.0,India,West,2025-05-29,Electronics,Smartwatch,120.0,1.0,0.1,0.0,108.0,Credit Card,Completed
+ORD1260,CUST0199,Dev Miller,Male,57.0,India,North,2025-05-06,Beauty,Face Cream,22.0,1.0,0.1,4.99,24.79,PayPal,Completed
+ORD1261,CUST0140,Mia Smith,Female,62.0,Australia,East,2025-10-29,Sports,Water Bottle,15.0,1.0,0.05,0.0,14.25,Debit Card,Returned
+ORD1262,CUST0133,Priya Garcia,Other,49.0,Australia,West,2025-12-26,Sports,Football,,3.0,0.2,0.0,60.0,Credit Card,Completed
+ORD1263,CUST0116,James Johnson,Male,46.0,India,Central,2025-08-26,Home & Kitchen,Coffee Maker,55.0,1.0,0.1,0.0,49.5,PayPal,Completed
+ORD1264,CUST0221,Sneha Brown,Female,20.0,Australia,West,2025-05-15,Apparel,Shoes,65.0,3.0,0.1,4.99,180.49,Credit Card,Completed
+ORD1265,CUST0175,Olivia Das,Female,57.0,United Kingdom,South,2025-05-31,Electronics,Smartwatch,120.0,3.0,0.15,0.0,306.0,Debit Card,Completed
+ORD1266,CUST0186,Priya Joshi,Female,51.0,Canada,West,2025-08-24,Beauty,Perfume,45.0,1.0,0.0,0.0,45.0,Credit Card,Completed
+ORD1267,CUST0216,Isabella Reddy,Female,57.0,United States,North,2025-08-12,Beauty,Shampoo,12.0,2.0,0.15,9.99,30.39,Debit Card,Completed
+ORD1268,CUST0205,Maya Brown,Female,44.0,United States,Central,2025-07-22,Apparel,T-Shirt,20.0,2.0,0.0,0.0,40.0,Debit Card,Completed
+ORD1269,CUST0185,Liam Patel,Male,30.0,United States,West,2025-09-13,Electronics,TV,500.0,4.0,0.0,4.99,2004.99,UPI,Completed
+ORD1270,CUST0126,Vikram Das,Male,62.0,United Kingdom,South,2025-03-27,Electronics,Laptop,850.0,1.0,0.0,4.99,854.99,Credit Card,Completed
+ORD1271,CUST0156,Sneha Kumar,Female,50.0,India,West,2025-05-30,Electronics,Speaker,45.0,2.0,0.25,0.0,67.5,Debit Card,Completed
+ORD1272,CUST0130,Amelia Williams,Female,23.0,India,South,2025-08-23,Home & Kitchen,Blender,35.0,2.0,0.15,9.99,69.49,Debit Card,Completed
+ORD1273,CUST0233,Isabella Johnson,Female,41.0,India,Central,2025-12-11,Apparel,Jeans,45.0,1.0,0.1,0.0,40.5,UPI,Completed
+ORD1274,CUST0197,Sophia Sharma,Female,36.0,United Kingdom,South,2025-01-22,Sports,Dumbbells,50.0,,0.1,4.99,49.99,PayPal,Completed
+ORD1275,CUST0111,Priya Reddy,Female,33.0,India,West,2025-12-14,Home & Kitchen,Air Fryer,85.0,2.0,,4.99,157.99,,Completed
+ORD1276,CUST0152,Amelia Joshi,Female,57.0,United Kingdom,North,2025-10-12,Electronics,Speaker,45.0,3.0,0.2,4.99,112.99,UPI,Completed
+ORD1277,CUST0237,Emma Iyer,Female,45.0,Australia,South,2025-09-26,Home & Kitchen,Coffee Maker,55.0,1.0,0.05,4.99,57.24,UPI,Completed
+ORD1278,CUST0244,Isabella Williams,Female,50.0,India,South,2025-09-15,Apparel,Shoes,65.0,2.0,0.05,0.0,123.5,Debit Card,Completed
+ORD1279,CUST0221,Maya Das,Female,65.0,United Kingdom,North,2025-01-29,Home & Kitchen,Coffee Maker,55.0,1.0,0.0,0.0,55.0,PayPal,Completed
+ORD1280,CUST0145,Pooja Johnson,Female,58.0,United States,South,2025-08-01,Home & Kitchen,Microwave,110.0,2.0,0.15,4.99,191.99,UPI,Completed
+ORD1281,CUST0163,Riya Das,Female,30.0,Canada,East,2025-10-10,Beauty,Face Cream,22.0,,0.1,4.99,24.79,Cash on Delivery,Completed
+ORD1282,CUST0229,Liam Sharma,Male,60.0,India,Central,2025-02-19,Beauty,Lipstick,15.0,4.0,0.05,9.99,66.99,UPI,Completed
+ORD1283,CUST0153,Alexander Gupta,Male,62.0,United Kingdom,South,2025-04-05,Electronics,Phone,650.0,1.0,0.0,9.99,659.99,Debit Card,Completed
+ORD1284,CUST0206,Arjun Davis,Male,42.0,Canada,Central,2025-03-29,Electronics,TV,500.0,1.0,0.15,9.99,434.99,Credit Card,Completed
+ORD1285,CUST0150,Ananya Davis,Female,59.0,Australia,East,2025-02-13,Home & Kitchen,Coffee Maker,55.0,1.0,0.0,4.99,59.99,Debit Card,Returned
+ORD1286,CUST0135,Daniel Patel,Male,53.0,United Kingdom,North,2025-10-05,Electronics,Laptop,850.0,1.0,0.1,0.0,765.0,UPI,Completed
+ORD1287,CUST0214,Ethan Garcia,Male,44.0,United States,North,2025-06-20,Apparel,Shoes,65.0,2.0,0.25,9.99,107.49,Debit Card,Completed
+ORD1288,CUST0125,Olivia Sharma,Female,55.0,United Kingdom,East,2025-07-08,Electronics,TV,500.0,1.0,0.05,4.99,479.99,Debit Card,Completed
+ORD1289,CUST0128,Vikram Williams,Male,24.0,Canada,Central,2025-12-19,Home & Kitchen,Air Fryer,85.0,3.0,0.0,0.0,255.0,UPI,Completed
+ORD1290,CUST0248,Neha Reddy,Female,22.0,United States,West,2025-07-03,Electronics,Smartwatch,120.0,1.0,0.1,9.99,117.99,Debit Card,Cancelled
+ORD1291,CUST0110,Kabir Das,Male,60.0,India,South,2025-01-03,Home & Kitchen,Toaster,25.0,1.0,0.15,9.99,31.24,UPI,Completed
+ORD1292,CUST0139,Vikram Brown,Male,62.0,Australia,West,2025-07-10,Sports,Football,25.0,1.0,0.05,4.99,28.74,Debit Card,Returned
+ORD1293,CUST0110,Mia Smith,Female,48.0,United Kingdom,East,2025-04-28,Electronics,Smartwatch,120.0,1.0,0.25,0.0,90.0,Debit Card,Returned
+ORD1294,CUST0212,Dev Reddy,Male,40.0,United Kingdom,South,2025-01-19,Electronics,TV,500.0,1.0,0.0,0.0,500.0,Debit Card,Returned
+ORD1295,CUST0138,James Singh,Male,59.0,India,East,2025-01-23,Apparel,Jacket,75.0,1.0,0.05,9.99,81.24,UPI,Completed
+ORD1296,CUST0153,Olivia Iyer,Female,27.0,United Kingdom,South,2025-01-30,Beauty,Sunscreen,16.0,2.0,0.1,9.99,38.79,Credit Card,Completed
+ORD1297,CUST0197,Ananya Das,Female,49.0,United States,East,2025-10-22,Electronics,Speaker,45.0,1.0,0.15,0.0,38.25,Credit Card,Completed
+ORD1298,CUST0154,Kabir Patel,Male,60.0,United Kingdom,East,2025-04-18,Apparel,T-Shirt,20.0,2.0,0.0,0.0,40.0,Cash on Delivery,Completed
+ORD1299,CUST0210,Amelia Smith,Female,47.0,India,West,2025-10-08,Electronics,Phone,650.0,2.0,0.15,9.99,1114.99,Credit Card,Completed
+ORD1300,CUST0249,Liam Sharma,,56.0,United Kingdom,North,2025-05-08,Beauty,Face Cream,22.0,1.0,0.1,0.0,19.8,PayPal,Completed
