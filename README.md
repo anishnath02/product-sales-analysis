@@ -1,4 +1,4 @@
-## Project Learnings[cite: 1]
+## Project Learnings
 
 * Executed comprehensive data cleaning and manipulation processes.
 * Conducted in-depth Exploratory Data Analysis (EDA) leveraging Pandas, Matplotlib, and Seaborn.
